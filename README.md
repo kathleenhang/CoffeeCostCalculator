@@ -1,3 +1,3 @@
 # CoffeeCostCalculator
-A School Project for Java programming class<BR>
+CISP21 Java Programming - Project 4<BR>
 [ Professor: Ms. J ]
